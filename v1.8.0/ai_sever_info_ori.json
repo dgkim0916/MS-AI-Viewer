@@ -1,0 +1,229 @@
+{
+    "USER": {
+        "admin": "admin",
+        "user": "1234"
+    },
+    "NVR": {
+        "192.168.0.102": {
+            "id": "admin",
+            "pw": "1234",
+            "port": "8081",
+            "http_port": "80",
+            "name": "1\uce35 nvr",
+            "cameras": {
+                "\uc0b0\ub2e8 \uc8fc\ucc28\uc7a5": {
+                    "ip": "117.17.159.206",
+                    "streaming": true,
+                    "id": 1
+                },
+                "\ud654\uc7ac \ud14c\uc2a4\ud2b81": {
+                    "ip": "C00_049_0002.mp4",
+                    "streaming": true,
+                    "id": 2
+                },
+                "\uc0b0\ub2e8 \uc8fc\ucc28\uc7a5 \uc785\uad6c": {
+                    "ip": "taebak11.iptime.org",
+                    "streaming": true,
+                    "id": 3
+                },
+                "\ud568\ubc15\uad00 \uc815\ubb381": {
+                    "ip": "117.16.130.68",
+                    "streaming": true,
+                    "id": 4
+                },
+                "\ud568\ubc15\uad00 \uc815\ubb382": {
+                    "ip": "117.16.130.67",
+                    "streaming": true,
+                    "id": 5
+                },
+                "5\uacf5\ud559\uad00 \uc55e1": {
+                    "ip": "202.30.100.14",
+                    "streaming": true,
+                    "id": 6
+                },
+                "\ud654\uc7ac \ud14c\uc2a4\ud2b82": {
+                    "ip": "C052105_003.mp4",
+                    "streaming": true,
+                    "id": 7
+                },
+                "\ucc3d\uc870\uad00 \uc55e1": {
+                    "ip": "202.30.104.137",
+                    "streaming": true,
+                    "id": 8
+                },
+                "\ucc3d\uc870\uad00 \uc55e2": {
+                    "ip": "202.30.104.138",
+                    "streaming": true,
+                    "id": 9
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b81": {
+                    "ip": "C00_023_0004.mp4",
+                    "streaming": true,
+                    "id": 10
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b82": {
+                    "ip": "C00_003_0003.mp4",
+                    "streaming": true,
+                    "id": 11
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b83": {
+                    "ip": "C00_034_0005.mp4",
+                    "streaming": true,
+                    "id": 12
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b84": {
+                    "ip": "C00_081_0002.mp4",
+                    "streaming": true,
+                    "id": 13
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b85": {
+                    "ip": "taebak11.iptime.org",
+                    "streaming": true,
+                    "id": 14
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b86": {
+                    "ip": "taebak11.iptime.org",
+                    "streaming": true,
+                    "id": 15
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b87": {
+                    "ip": "C00_188_0003.mp4",
+                    "streaming": true,
+                    "id": 16
+                },
+                "2H(\ucd2c\uc601) to 6H(\uad00\uce21)": {
+                    "ip": "taebak11.iptime.org",
+                    "streaming": true,
+                    "id": 14
+                },
+                "6H(\ucd2c\uc601) to 2H(\uad00\uce21)": {
+                    "ip": "taebak11.iptime.org",
+                    "streaming": true,
+                    "id": 15
+                }
+            }
+        },
+        "192.168.0.237": {
+            "id": "admin",
+            "pw": "1234",
+            "port": "8081",
+            "http_port": "80",
+            "name": "2\uce35 nvr",
+            "cameras": {
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b88": {
+                    "ip": "710-2_cam01_swoon01_place01_day_spring.mp4",
+                    "streaming": true,
+                    "id": 1
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b89": {
+                    "ip": "100-4_cam01_swoon01_place02_day_summer.mp4",
+                    "streaming": true,
+                    "id": 2
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b810": {
+                    "ip": "103-3_cam01_swoon01_place04_day_spring.mp4",
+                    "streaming": true,
+                    "id": 3
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b811": {
+                    "ip": "104-2_cam01_swoon01_place04_day_spring.mp4",
+                    "streaming": true,
+                    "id": 4
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b812": {
+                    "ip": "106-3_cam02_swoon01_place05_day_spring.mp4",
+                    "streaming": true,
+                    "id": 5
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b813": {
+                    "ip": "110-1_cam02_swoon01_place01_day_spring.mp4",
+                    "streaming": true,
+                    "id": 6
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b814": {
+                    "ip": "117-6_cam01_swoon01_place04_night_spring.mp4",
+                    "streaming": true,
+                    "id": 7
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b815": {
+                    "ip": "118-3_cam01_swoon02_place11_day_spring.mp4",
+                    "streaming": true,
+                    "id": 8
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b816": {
+                    "ip": "107-2_cam02_swoon01_place06_night_summer.mp4",
+                    "streaming": true,
+                    "id": 9
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b817": {
+                    "ip": "710-1_cam02_swoon01_place01_day_spring.mp4",
+                    "streaming": true,
+                    "id": 10
+                },
+                "\uc4f0\ub7ec\uc9d0 \ud14c\uc2a4\ud2b818": {
+                    "ip": "109-3_cam02_swoon02_place01_night_summer.mp4",
+                    "streaming": true,
+                    "id": 11
+                },
+                "\uce74\uba54\ub77c12": {
+                    "ip": "117.17.159.196",
+                    "streaming": true,
+                    "id": 12
+                },
+                "\uce74\uba54\ub77c13": {
+                    "ip": "taebak11.iptime.org",
+                    "streaming": true,
+                    "id": 13
+                },
+                "\uce74\uba54\ub77c14": {
+                    "ip": "taebak11.iptime.org",
+                    "streaming": true,
+                    "id": 14
+                },
+                "\uce74\uba54\ub77c15": {
+                    "ip": "117.17.159.147",
+                    "streaming": true,
+                    "id": 15
+                },
+                "\uce74\uba54\ub77c16": {
+                    "ip": "117.17.159.140",
+                    "streaming": true,
+                    "id": 16
+                },
+                "2H(\ucd2c\uc601) to 6H(\uad00\uce21)": {
+                    "ip": "taebak11.iptime.org",
+                    "streaming": true,
+                    "id": 13
+                },
+                "6H(\ucd2c\uc601) to 2H(\uad00\uce21)": {
+                    "ip": "taebak11.iptime.org",
+                    "streaming": true,
+                    "id": 14
+                }
+            }
+        }
+    },
+    "AI_SERVER": {
+        "192.168.0.254": {
+            "id": "admin",
+            "pw": "1234",
+            "port": "65432",
+            "name": "1\uce35 \uc9c0\ub2a5\ud615 \uc11c\ubc84"
+        }
+    },
+    "SETTING": {
+        "notice": {
+            "active": false,
+            "duration": 3
+        },
+        "sms": {
+            "active": 0,
+            "user": {}
+        }
+    },
+    "ADMIN": {
+        "sms_active": 1,
+        "sms_allow_phone_num": 1,
+        "live_viewer_block_active": false
+    }
+}

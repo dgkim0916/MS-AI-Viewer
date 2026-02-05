@@ -1,0 +1,17 @@
+__pycache__/*
+ui/__pycache__/*
+.vscode/*
+MS-AI-env/*
+ai_sever_info.json
+
+# 환경변수 (민감 정보)
+.env
+.env.local
+
+# 마이그레이션 백업
+*.backup_*
+
+# PyInstaller 빌드 산출물
+build/
+dist/
+*.spec.bak

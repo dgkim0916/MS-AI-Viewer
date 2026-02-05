@@ -1,0 +1,28 @@
+# Python >= 3.10
+
+# === UI 프레임워크 ===
+PySide6>=6.5.0
+
+# === 영상 처리 ===
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# === 네트워크 ===
+requests>=2.31.0
+
+# === 보안/암호화 ===
+cryptography>=41.0.0
+
+# === 환경변수 ===
+python-dotenv>=1.0.0
+
+# === SMS/카카오톡 알림 ===
+solapi>=1.0.0
+
+# === GStreamer (시스템 패키지 - pip 설치 불가) ===
+# 아래 패키지는 conda 또는 OS 패키지 매니저로 설치 필요:
+#   conda install conda-forge::pygobject
+#   conda install conda-forge::gst-plugins-base
+#   conda install conda-forge::gst-plugins-good
+#   conda install conda-forge::gst-plugins-bad
+PyGObject>=3.46.0
